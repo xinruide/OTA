@@ -1,1 +1,5 @@
 框架文件
+void FRM_T10MS_OS(void)
+{
+
+}
